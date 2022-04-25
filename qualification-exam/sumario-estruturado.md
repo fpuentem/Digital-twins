@@ -49,12 +49,38 @@ https://link.springer.com/article/10.1007/s11276-018-1712-5
 https://www.sciencedirect.com/science/article/pii/S0040162517315676?casa_token=ocW3kppF8qwAAAAA:wnaJEe7kkW0JVJZN2O4nV6mmUsON2yINaMMz1-2bO7uXvI9NyfSPwH7QVJCt7SXU2886okNtUcw
 -->
 ### 2.2. Gêmeos Digitais
-    1. Definição
-    2. Tecnologias habilitadoras
+    1. Origens e evolução
+    2. Definição
+    3. Características dos Gêmeos Digitais
+        * Identificador único
+        * Sensores e Atuadores
+        * Inteligência Artificial
+        * Comunicação
+        * Representação
+        * Confiança 
+        * Privacidade e segurança
+    4. Tecnologias habilitadoras
        1. Big Data
        2. Computação na nuvem e a borda
        3. Modelos baseados em dados 
-    3. Gêmeos digitais aplicados as casas inteligentes
+    5. Estrutura de avaliação dos Gêmeos Digitais
+       1. Métricas
+           * Inteligência
+           * Autonomia
+           * Aprendizagem 
+           * Fidelidade
+       2. Níveis 
+    6. Plataforma e Ecossistema de Gêmeos Digitais
+    7. Gêmeos digitais aplicados as casas inteligentes
+   
+<!---
+https://ieeexplore.ieee.org/abstract/document/8424832?casa_token=93KR-SmqTHIAAAAA:VsbR6l0GTtYuDf37ZhW0FCN6q6IVNwIMt944upkA_28MtFXxWsrgKzMIZPItnuN8vZX82AlB3CY
+https://www.sciencedirect.com/science/article/pii/S2352484721000913#sec2
+https://iopscience.iop.org/article/10.1088/1742-6596/1228/1/012031/pdf
+https://ieeexplore.ieee.org/document/8807872
+https://ieeexplore.ieee.org/abstract/document/8930829?casa_token=aWzL9Gy6AJ0AAAAA:9Bp_8y8j9uB6s6QdMVQiE9jqEphsqHhV0UAUXXi6gOjbpa2sxCjIVgKGhtdpY95TKkgVI0HHWqc
+-->
+
 ### 2.3. Segurança e Privacidade de dados
     1. 
     2. Modelo de ameaça de uma casa inteligente
