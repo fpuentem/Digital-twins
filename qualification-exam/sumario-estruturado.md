@@ -33,9 +33,21 @@ Para cada um dos objetivos o que outros artigos não consigureram
 -->
 ## Capitulo 2: Referencial Teorico
 ### 2.1. Casas Inteligentes
-    1. Internet das Coisas
-    2. Medidores Inteligentes
-    3. Sistemas de gerenciamento de energia
+    1. Definição
+    2. Arquiteturas de casa inteligente
+        * Computação em nuvem
+        * Computação de névoa
+        * Computação de bordas
+    3. Casas inteligentes e *Smart Grid*
+        * Aparelhos inteligentes
+        * Medidores inteligentes
+        * Sistema de gerenciamento de energia doméstica inteligente
+<!---
+https://www.sciencedirect.com/science/article/pii/S2542660518300477?casa_token=JdHbFUPtmnYAAAAA:du5h4ALcj1bk00UR2lFKfiaEV-6MFI7YkVHDldRAx9V3Weva1su4JoqmvQcRmJXjgmIAZ4Gl14A
+https://www.sciencedirect.com/science/article/pii/S1364032119308688?casa_token=1VZs_Rw5nPUAAAAA:O3u3pRq9gYLidEobwS4_0cd-PQrth8JV08EMaB9KBy8t2FBSNjFWFQI9ODZhebEj9K0QUh-QnGw
+https://link.springer.com/article/10.1007/s11276-018-1712-5
+https://www.sciencedirect.com/science/article/pii/S0040162517315676?casa_token=ocW3kppF8qwAAAAA:wnaJEe7kkW0JVJZN2O4nV6mmUsON2yINaMMz1-2bO7uXvI9NyfSPwH7QVJCt7SXU2886okNtUcw
+-->
 ### 2.2. Gêmeos Digitais
     1. Definição
     2. Tecnologias habilitadoras
