@@ -9,19 +9,23 @@ O progresso do internet das coisas(IdC) tem permitido a implantação de uma in�
 
 Com a ajuda das redes inteligentes a otimização no uso da energia elétrica é possível ser feito no lado da demanda,(xxxx) em outras palavras no lado das casas, um exemplo de gerenciamento de lado da demanda é a tarifa branca residencial. Os medidores de energia inteligente permitem monitorar o consumo de energia dos aparelhos de uma casa em tempo real permitindo a os moradores ter conhecimento de seu gasto e consumo energetico.
 
-### 1.2. Problema
+### 1.2. Problema de Pesquisa
 Os medidores inteligentes em uma casa disponibilizam os dados de consumo energético em tempo real por aparelho (especificar mejor, medidor general o individual?), ainda esses dados tem sido utilizados como simples números informativos do gasto de energia. Trabalhos mais atuais utilizam esses dados como entrada nos modelos de aprendizado de máquina para previsões do consumo energético de uma casa, mas isso não é de muita utilidade na otimização do consumo da energia elétrica. Geralmente, os modelos de aprendizado de máquina utilizam plataformas de nuvem, o que pode originar riscos na seguridade e privacidade dos moradores, por exemplo, a rutina dos moradores, o número de moradores de uma casa, os aparelhos que tem dentro de uma casa, etc. (conexión de ideas) Por outro lado, os gêmeos digitais permitem a adaptabilidade do perfil de consumo de uma casa, com isso um sistema de gerenciamento de energia domestica consegue a optimização do consumo de energia sem reduzir o conforto do morador. Não entanto, os modelos de gêmeos digitais de uma casa não consideram ao morador como um indivíduo e só tem em conta a casa como um tudo. Também os dados dos medidores inteligentes só fornecem informação com respeito o consumo de energia e não do estado interno dos aparelhos limitando desse modo a complexidade dos gêmeos digitais e a posibilidade de explorar su aplicabilidade em predição e previsão de falhas (revisao do ultimo paragrafo). 
 
 ### 1.3. Objetivos
-#### 1.3.1. Objetivos Gerais
-Desenvolver uma plataforma  de gerenciamento de uma casa inteligente com múltiplos moradores  que permita a detecção e predição de falhas de aparelhos elétricos basada em gêmeos digitais e assinatura eletromagnética.
-
+#### 1.3.1. Objetivo Geral
+Arquitetar e construir uma plataforma de gerenciamento de uma casa inteligente com múltiplos moradores basada em gêmeos digitais, assinatura electromagnética dos aparelhos é perfil de consumo de cada morador.
+<!---
+Para cada um dos objetivos o que outros artigos não consigureram
+-->
 #### 1.3.2. Objetivos Específicos
-1.3.2.1. Propor uma plataforma de gerenciamento de uma casa inteligente.
+1.3.2.1. Selecionar uma arquitetura de referência para a plataforma de gerenciamento de uma casa inteligente que permita conciliar os perfiles de consumo energético de múltiplos moradores. 
 
-1.3.2.2. Gerenciar o consumo de energia elétrica em uma casa inteligente para uma maior sustentabilidade no uso de energia através de gêmeos digitais.
+1.3.2.2. Redesenhar a arquitetura para a plataforma de gerenciamento de uma casa inteligente a partir de novos componentes, funcionalidades e fluxos de operações, considerando a integração de gêmeos digitais e eficiencia energêtica.
 
-1.3.2.3. Detetar e predizer falhas em aparelhos elétricos através de modelos de na assinatura electromagnética (queda de tensão e corrente). Intrusiva e não-intrusiva.
+1.3.2.3. Avaliar a detecção precoce de falhas dos aparelhos domésticos baseada em sua assinatura electromagnética. 
+
+1.3.2.4. Definir um modelo de ameaça para a plataforma de gerenciamento de uma casa inteligente proposta.
 
 ### 1.4. Justificativa
 <!---
