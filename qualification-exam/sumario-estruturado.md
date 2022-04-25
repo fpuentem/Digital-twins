@@ -82,9 +82,25 @@ https://ieeexplore.ieee.org/abstract/document/8930829?casa_token=aWzL9Gy6AJ0AAAA
 -->
 
 ### 2.3. Segurança e Privacidade de dados
-    1. 
-    2. Modelo de ameaça de uma casa inteligente
-### 2.4. Manutençaõ preventiva e preditiva
+    1. Pilares de ciber-segurança a considerar para gêmeos digitais
+        * Segurança
+        * Criptografia de dados
+        * Identidade e Autenticação
+        * Princípio do Mínimo Privilégio
+        * Auditoria de Segurança
+        * Monitoramento de Eventos ao Vivo e Resposta a Incidentes
+        * Gerenciamento de dispositivos
+    2. Modelos de ciber ameaças     
+        * Casas inteligentes
+        * Gêmeos digitais
+        * Sistema de gerenciamento de energia doméstica inteligente
+<!--
+https://ieeexplore.ieee.org/abstract/document/9368968?casa_token=4GzCfNfrd-MAAAAA:OJnAEzQxlpcRGSTJGBPsdpweqLvs3SHn2YKVPbj7Mk77CRvZV9QvAzyPPmaftmYbRlii_geRIPU
+-->
+
+### 2.4. Detecção temprana de falhas
+    1. Técnicas de detecção de falhas em aparelhos domésticos
+    2. Detecção de falhas em aparelhos no contesto de casa inteligente 
 
 ## Capitulo 3: Apresentação da Proposta
 ### 3.1. Plataforma Proposta
