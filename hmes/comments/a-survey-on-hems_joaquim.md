@@ -64,4 +64,19 @@
   - Local micro energy production 
   - Utility grid prices
 
-## 
+## Scheduling
+* Improve energy efficiency and residents' comfort
+* Methods and techniques
+  - Mathematical optimization
+  - Heuristic and metaheuristic methods
+  - Model-based predictive control
+  - Machine learning 
+  - Game theory approach
+* Criteria
+  - Electricity bill
+  - Distribution system losses
+  - Peak load. utility companies encourage customers to minimize the peak demand or even to achieve a particular load profile, which benefits the grid management.
+  - Carbon emission
+  - Customer comfort
+  - Social welfare
+* xD
